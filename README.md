@@ -1,6 +1,6 @@
 # Babson College Summer Program 2022 - UG2 Class
 
-This is my class notes while studying at Babson College Summer Program 2022 - UG2 Class.
+This is my class notes while studying at Babson College Summer Program 2022 - UG2 Class.  
 I've been at Babson College for an Entrepreneurship Program in 2022 July.
 
 ## Markdown format
